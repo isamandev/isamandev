@@ -9,8 +9,10 @@
 **FA**
 >یک توسعه‌دهنده فرانت‌اند مشتاق و علاقه‌مند به یادگیری مستمر و همکاری تیمی هستم. تخصص من در توسعه برنامه‌های فرانت‌اند با استفاده از React و فریم‌ورک Next.js است. همواره تلاش می‌کنم دانش فنی خود را به‌روز نگه دارم و از جدیدترین تکنولوژی‌ها و روش‌های کاری در پروژه‌ها بهره ببرم. همچنین به اشتراک‌گذاری دانش و تجربه‌هایم با دیگران علاقه‌مندم و معتقدم که یادگیری و تدریس می‌تواند به رشد فردی و تیمی کمک کند.
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,js,css,html)](https://skillicons.dev)
+
 ## 🛠 Skills
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,js,css,html)](https://skillicons.dev)
+
 - **Next.js**
 - **React**
 - **JavaScript** (ES6)
