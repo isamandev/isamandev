@@ -11,7 +11,7 @@
 
 
 ## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,js,css,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,js,css,tailwind,html)](https://skillicons.dev)
 
 - **Next.js**
 - **React**
