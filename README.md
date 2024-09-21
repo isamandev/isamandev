@@ -16,7 +16,7 @@
 - **Next.js**
 - **React**
 - **JavaScript** (ES6)
-- **CSS** (Sass, Tailwind)
+- **CSS** (Sass, Tailwind, Ant Design)
 - **HTML**
 
 
